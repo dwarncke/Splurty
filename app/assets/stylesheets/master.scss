@@ -1,11 +1,13 @@
 @import "bootstrap";
 
 h1 {
-  font-family: 'Overpass', snas-serif;
+  font-family: 'nobilemedium', sans-serif;
+  font-weight: bold;
+  font-size: 48px;
 }
 
 h2 {
-  font-family: 'Overpass', sans-serif;
+  font-family: 'nobilemedium_italic', sans-serif;
 }
 
 .clear {
@@ -46,6 +48,8 @@ h2 {
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'nobilemedium', sans-serif;
+  font-weight: bold;
 }
 
 header {
